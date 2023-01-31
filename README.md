@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, my name is Nauruz</h1>
-<h3 align="center">A passionate android learner.</h3>
+
 
 - 🌱 I’m currently learning **retrofit, dagger hilt and compose.**
 
