@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nauruz-guliev&show_icons=true&locale=en" alt="nauruz-guliev" /></p>
 
-- 📫 How to reach me **t.me/Nauruz7**
+- 📫 Reach me in telegram **t.me/Nauruz7**
 
