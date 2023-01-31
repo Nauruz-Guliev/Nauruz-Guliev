@@ -2,7 +2,7 @@
 
 <!-- - 🌱 I’m currently learning **retrofit, dagger hilt and compose.**-->
 
-- 📫 How to reach me **t.me/Nauruz7**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nauruz-guliev&show_icons=true&locale=en&layout=compact" alt="nauruz-guliev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nauruz-guliev&show_icons=true&locale=en" alt="nauruz-guliev" /></p>
+
+- 📫 How to reach me **t.me/Nauruz7**
 
