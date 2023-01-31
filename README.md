@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **retrofit, dagger hilt and compose.**
+<!-- - 🌱 I’m currently learning **retrofit, dagger hilt and compose.**-->
 
 - 📫 How to reach me **t.me/Nauruz7**
 
