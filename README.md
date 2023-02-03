@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://dribbble.com/nauruz0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nauruz0304" height="30" width="40" /></a>
 <a href="https://discord.gg/322078249460957185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="322078249460957185" height="30" width="40" /></a>
-<a href="https://t.me/Nauruz7" target="blank"><img align="center" src="https://icons8.com/icon/63306/telegram-app" alt="322078249460957185" height="30" width="40" /></a>
+<a href="https://t.me/Nauruz7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png" alt="322078249460957185" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
