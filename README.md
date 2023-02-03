@@ -4,7 +4,7 @@
 
 
 
-<h3 align="left">Reach me</h3>
+<h3 align="left">Reach me:</h3>
 <p align="left">
 <a href="https://dribbble.com/nauruz0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nauruz0304" height="30" width="40" /></a>
 <a href="https://discord.gg/322078249460957185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="322078249460957185" height="30" width="40" /></a>
