@@ -4,10 +4,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me</h3>
 <p align="left">
 <a href="https://dribbble.com/nauruz0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nauruz0304" height="30" width="40" /></a>
 <a href="https://discord.gg/322078249460957185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="322078249460957185" height="30" width="40" /></a>
+<a href="https://t.me/Nauruz7" target="blank"><img align="center" src="https://icons8.com/icon/63306/telegram-app" alt="322078249460957185" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,6 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nauruz-guliev&show_icons=true&locale=en&layout=compact" alt="nauruz-guliev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nauruz-guliev&show_icons=true&locale=en" alt="nauruz-guliev" /></p>
-
-- 📫 Reach me in telegram **t.me/Nauruz7**
 
